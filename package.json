@@ -20,6 +20,7 @@
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
+    "@types/react-collapse": "^5.0.4",
     "@types/react-dom": "^18",
     "postcss": "^8",
     "react-collapse": "^5.1.1",
